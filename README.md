@@ -8,3 +8,5 @@ Kód obsahuje následující funkce:
   <li><i>removeShortLogLabels</i> – odebere všechny TFTC štítky. Používal jsem při testování podmínek.</li>  
   <li><i>addShortLogLabel</i> – kontroluje e-maily a přidává TFTC štítek. Tato funkce bude spouštěna automaticky.</li>
 </ul>
+
+Detailní postup zprovoznění naleznete na mém blogu: http://tatageek.blog/2020/07/01/filtr-kratkych-geocaching-logu/
